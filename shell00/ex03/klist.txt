@@ -1,0 +1,5 @@
+Credentials cache: API:16648
+        Principal: sgaladri@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug  9 23:38:08 2021  Aug 10 09:38:01 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
